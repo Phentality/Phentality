@@ -14,7 +14,8 @@
 Также свободное время посвящаю TypeScript 📜
 
 ## Контакты
-<img src="https://cdn.imgbin.com/9/8/16/imgbin-telegram-logo-computer-icons-others-8H3gEe8m42v68xXAEngjBN9yu.jpg"> @Phentality
+Telegram: @Phentality
+Тел.: 8-906-377-97-85
 
 <!--
 **Phentality/Phentality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
